@@ -1,0 +1,171 @@
+{
+  "execution": {
+    "rows": 360,
+    "unique_keys": 360,
+    "schema_uniform": true
+  },
+  "policy_g7": {
+    "thompson": {
+      "n": 180,
+      "mean": 0.4284531575950972,
+      "sd": 0.0046515106998998796,
+      "min": 0.41970302225775646,
+      "max": 0.43548399117777864
+    },
+    "simple": {
+      "n": 180,
+      "mean": 0.4251978365048112,
+      "sd": 0.003724450329772052,
+      "min": 0.41837688122619743,
+      "max": 0.4326157863852464
+    }
+  },
+  "task_level": [
+    {
+      "task_id": "T01_CAUSAL_MEDIATION",
+      "n_seed_pairs": 15,
+      "mean_delta_T_minus_S": 0.0019246655219925266,
+      "sd_delta": 0.0017377843387468008
+    },
+    {
+      "task_id": "T02_COUNTERFACTUAL_CACHE",
+      "n_seed_pairs": 15,
+      "mean_delta_T_minus_S": 0.0037660599052111166,
+      "sd_delta": 0.0020857481402746076
+    },
+    {
+      "task_id": "T03_BOUNDARY_CONDITION",
+      "n_seed_pairs": 15,
+      "mean_delta_T_minus_S": 0.004958481110998059,
+      "sd_delta": 0.001903594550304012
+    },
+    {
+      "task_id": "T04_ASSUMPTION_HUNT",
+      "n_seed_pairs": 15,
+      "mean_delta_T_minus_S": 0.003136089679971151,
+      "sd_delta": 0.0012202918118976135
+    },
+    {
+      "task_id": "T05_ANOMALY_DETECTION",
+      "n_seed_pairs": 15,
+      "mean_delta_T_minus_S": 0.0009958340389227493,
+      "sd_delta": 0.0009819529198707559
+    },
+    {
+      "task_id": "T06_EVIDENCE_SUFFICIENCY",
+      "n_seed_pairs": 15,
+      "mean_delta_T_minus_S": 0.0016527354195058537,
+      "sd_delta": 0.0018503756169444333
+    },
+    {
+      "task_id": "T07_MECHANISM_DISCRIMINATION",
+      "n_seed_pairs": 15,
+      "mean_delta_T_minus_S": 0.003913593620472966,
+      "sd_delta": 0.0019049837358260514
+    },
+    {
+      "task_id": "T08_COMPETING_EXPLANATIONS",
+      "n_seed_pairs": 15,
+      "mean_delta_T_minus_S": 0.004135426031585088,
+      "sd_delta": 0.0016818328038272845
+    },
+    {
+      "task_id": "T09_UNCERTAINTY_CALIBRATION",
+      "n_seed_pairs": 15,
+      "mean_delta_T_minus_S": 0.0029321631935149955,
+      "sd_delta": 0.0015650476235281943
+    },
+    {
+      "task_id": "T10_ADVERSARIAL_CLAIM",
+      "n_seed_pairs": 15,
+      "mean_delta_T_minus_S": 0.003495122189102499,
+      "sd_delta": 0.0011229583141617566
+    },
+    {
+      "task_id": "T11_NOVELTY_HYPOTHESIS",
+      "n_seed_pairs": 15,
+      "mean_delta_T_minus_S": 0.004007885839217958,
+      "sd_delta": 0.0017704283285773226
+    },
+    {
+      "task_id": "T12_MULTI_STEP_INFERENCE",
+      "n_seed_pairs": 15,
+      "mean_delta_T_minus_S": 0.004145796532936456,
+      "sd_delta": 0.0019614216056602846
+    }
+  ],
+  "arm_stats": {
+    "thompson_AR": {
+      "runs_with_arm": 180,
+      "decision_linked_n": 1274,
+      "macro_mean": 0.3986922996941887,
+      "run_sd": 0.009029321636044758,
+      "decision_weighted_mean": 0.39815068003001264
+    },
+    "thompson_DIFFUSION": {
+      "runs_with_arm": 180,
+      "decision_linked_n": 1341,
+      "macro_mean": 0.40168559654443864,
+      "run_sd": 0.010358487019662369,
+      "decision_weighted_mean": 0.4020393191808458
+    },
+    "simple_AR": {
+      "runs_with_arm": 179,
+      "decision_linked_n": 502,
+      "macro_mean": 0.3966792950527092,
+      "run_sd": 0.01679995449744832,
+      "decision_weighted_mean": 0.39384406706473357
+    },
+    "simple_DIFFUSION": {
+      "runs_with_arm": 180,
+      "decision_linked_n": 2125,
+      "macro_mean": 0.3962469678115618,
+      "run_sd": 0.006661612204216345,
+      "decision_weighted_mean": 0.3964450366792832
+    }
+  },
+  "arm_mix": {
+    "thompson": {
+      "AR": {
+        "n": 1274,
+        "share": 0.487189292543021
+      },
+      "DIFFUSION": {
+        "n": 1341,
+        "share": 0.512810707456979
+      },
+      "total": 2615
+    },
+    "simple": {
+      "AR": {
+        "n": 502,
+        "share": 0.1910925009516559
+      },
+      "DIFFUSION": {
+        "n": 2125,
+        "share": 0.8089074990483441
+      },
+      "total": 2627
+    }
+  },
+  "same_arm_descriptive": {
+    "AR": {
+      "T_macro": 0.3986922996941887,
+      "S_macro": 0.3966792950527092,
+      "T_minus_S": 0.0020130046414794656,
+      "T_run_sd": 0.009029321636044758,
+      "S_run_sd": 0.01679995449744832
+    },
+    "DIFFUSION": {
+      "T_macro": 0.40168559654443864,
+      "S_macro": 0.3962469678115618,
+      "T_minus_S": 0.005438628732876816,
+      "T_run_sd": 0.010358487019662369,
+      "S_run_sd": 0.006661612204216345
+    }
+  },
+  "notes": [
+    "Arm-conditioned metric is the mean routing_fitness of generation-7 worms that had a resolved non-control routing decision of that arm.",
+    "This conditional metric is not a causal arm effect and does not reconstruct full-population G7 because some worms are not decision-bearing in generation 7."
+  ]
+}

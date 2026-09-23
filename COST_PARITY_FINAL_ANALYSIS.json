@@ -1,0 +1,94 @@
+{
+  "finding": "Prior Claim-Diverse v1 Simple Rule wrapper undercharged normalized cost (cost_units=1.0) versus Thompson (input_tokens/64). Cost-parity requalification corrected only this experimental wrapper.",
+  "runs": 360,
+  "resolved_records": 42235,
+  "g7": {
+    "thompson_mean": 0.4287957422377763,
+    "simple_mean": 0.426972967009818,
+    "task_delta_mean_thompson_minus_simple": 0.0018227752279581834,
+    "task_delta_sd": 0.0007488753590228086,
+    "dz": 2.4340168307002163,
+    "ci95": [
+      0.001346962525246241,
+      0.002298587930670126
+    ],
+    "wins": 12,
+    "losses": 0,
+    "ties": 0
+  },
+  "components": {
+    "thompson": {
+      "audit_pass": 0.10115730818688384,
+      "survival": 0.10120493403819593,
+      "signature_delta": 0.020749013735417505,
+      "robustness": 0.8403039295194642,
+      "normalized_cost": 0.9995562982211744,
+      "reward": 0.15731734824714927
+    },
+    "simple": {
+      "audit_pass": 0.09134570110179867,
+      "survival": 0.09134570110179867,
+      "signature_delta": 0.020820665284779456,
+      "robustness": 0.8398764525600085,
+      "normalized_cost": 0.9994815086754874,
+      "reward": 0.15136006191376655
+    },
+    "delta_thompson_minus_simple": {
+      "audit_pass": 0.009811607085085175,
+      "survival": 0.00985923293639726,
+      "signature_delta": -7.165154936195073e-05,
+      "robustness": 0.0004274769594556638,
+      "normalized_cost": 7.478954568707064e-05,
+      "reward": 0.005957286333382716
+    }
+  },
+  "arm_mode": [
+    {
+      "policy": "simple",
+      "mode": "AR",
+      "n": 6748,
+      "audit": 0.13900414937759337,
+      "survival": 0.13900414937759337,
+      "signature": 0.022411016078216994,
+      "robustness": 0.8598065526209948,
+      "cost": 0.999240515708358,
+      "reward": 0.18364156068078624
+    },
+    {
+      "policy": "simple",
+      "mode": "DIFFUSION",
+      "n": 14490,
+      "audit": 0.06915113871635611,
+      "survival": 0.06915113871635611,
+      "signature": 0.020080038151990182,
+      "robustness": 0.8305949953335396,
+      "cost": 0.9995937392167011,
+      "reward": 0.13632655234303856
+    },
+    {
+      "policy": "thompson",
+      "mode": "AR",
+      "n": 10023,
+      "audit": 0.10605607103661578,
+      "survival": 0.10615584156440187,
+      "signature": 0.020767381191173533,
+      "robustness": 0.8469816580634761,
+      "cost": 0.9993857876883169,
+      "reward": 0.16141929488109164
+    },
+    {
+      "policy": "thompson",
+      "mode": "DIFFUSION",
+      "n": 10974,
+      "audit": 0.09668306907235283,
+      "survival": 0.09668306907235283,
+      "signature": 0.020732237991929015,
+      "robustness": 0.8342048887689054,
+      "cost": 0.9997120324175324,
+      "reward": 0.1535708737517962
+    }
+  ],
+  "survival_audit_mismatches": 1,
+  "pytest": "63 passed, 2 warnings",
+  "compileall": "PASS"
+}

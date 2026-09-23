@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "worm-farm"
+version = "3.5.0"
+description = "Deterministic adversarial cognitive colony research engine"
+requires-python = ">=3.10"
+
+[project.optional-dependencies]
+neural = ["torch>=2.0"]
+dual = ["torch>=2.0", "sentencepiece>=0.1.99"]
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["."]
+
+[tool.setuptools.package-data]
+worm_farm = ["assets/*", "wormlm_micro/*"]

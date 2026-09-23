@@ -1,0 +1,1289 @@
+{
+  "runs": [
+    {
+      "seed": 42,
+      "lambda": 0.0,
+      "elapsed_s": 2.897958517074585,
+      "decisions": 128,
+      "resolved": 109,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000008"
+          ],
+          [
+            "W-000002",
+            "W-000013"
+          ],
+          [
+            "W-000003",
+            "W-000016"
+          ],
+          [
+            "W-000004",
+            "W-000015"
+          ],
+          [
+            "W-000005",
+            "W-000012"
+          ],
+          [
+            "W-000006",
+            "W-000011"
+          ],
+          [
+            "W-000007",
+            "W-000020"
+          ],
+          [
+            "W-000009",
+            "W-000010"
+          ],
+          [
+            "W-000014",
+            "W-000019"
+          ],
+          [
+            "W-000017",
+            "W-000018"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 13,
+      "routing_fitness_mean": 0.438681980177613,
+      "diversity_g0": 0.13936507116201285,
+      "diversity_g7": 0.13936507116201285
+    },
+    {
+      "seed": 77,
+      "lambda": 0.0,
+      "elapsed_s": 2.6698615550994873,
+      "decisions": 128,
+      "resolved": 108,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000020"
+          ],
+          [
+            "W-000002",
+            "W-000015"
+          ],
+          [
+            "W-000003",
+            "W-000006"
+          ],
+          [
+            "W-000004",
+            "W-000009"
+          ],
+          [
+            "W-000005",
+            "W-000012"
+          ],
+          [
+            "W-000007",
+            "W-000016"
+          ],
+          [
+            "W-000008",
+            "W-000019"
+          ],
+          [
+            "W-000010",
+            "W-000011"
+          ],
+          [
+            "W-000013",
+            "W-000018"
+          ],
+          [
+            "W-000014",
+            "W-000017"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 13,
+      "routing_fitness_mean": 0.4388671746693822,
+      "diversity_g0": 0.14101766588901002,
+      "diversity_g7": 0.14101766588901002
+    },
+    {
+      "seed": 101,
+      "lambda": 0.0,
+      "elapsed_s": 2.686245918273926,
+      "decisions": 128,
+      "resolved": 112,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000018"
+          ],
+          [
+            "W-000002",
+            "W-000011"
+          ],
+          [
+            "W-000003",
+            "W-000004"
+          ],
+          [
+            "W-000005",
+            "W-000010"
+          ],
+          [
+            "W-000006",
+            "W-000007"
+          ],
+          [
+            "W-000008",
+            "W-000009"
+          ],
+          [
+            "W-000012",
+            "W-000015"
+          ],
+          [
+            "W-000013",
+            "W-000014"
+          ],
+          [
+            "W-000016",
+            "W-000019"
+          ],
+          [
+            "W-000017",
+            "W-000020"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 17,
+      "routing_fitness_mean": 0.43828663635881576,
+      "diversity_g0": 0.1340178161693745,
+      "diversity_g7": 0.1340178161693745
+    },
+    {
+      "seed": 113,
+      "lambda": 0.0,
+      "elapsed_s": 2.6711184978485107,
+      "decisions": 128,
+      "resolved": 111,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000014"
+          ],
+          [
+            "W-000002",
+            "W-000015"
+          ],
+          [
+            "W-000003",
+            "W-000016"
+          ],
+          [
+            "W-000004",
+            "W-000019"
+          ],
+          [
+            "W-000005",
+            "W-000012"
+          ],
+          [
+            "W-000006",
+            "W-000017"
+          ],
+          [
+            "W-000007",
+            "W-000010"
+          ],
+          [
+            "W-000008",
+            "W-000011"
+          ],
+          [
+            "W-000009",
+            "W-000018"
+          ],
+          [
+            "W-000013",
+            "W-000020"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 13,
+      "routing_fitness_mean": 0.43550485150852963,
+      "diversity_g0": 0.1314018187562418,
+      "diversity_g7": 0.1314018187562418
+    },
+    {
+      "seed": 211,
+      "lambda": 0.0,
+      "elapsed_s": 2.5853540897369385,
+      "decisions": 128,
+      "resolved": 111,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000012"
+          ],
+          [
+            "W-000002",
+            "W-000011"
+          ],
+          [
+            "W-000003",
+            "W-000020"
+          ],
+          [
+            "W-000004",
+            "W-000017"
+          ],
+          [
+            "W-000005",
+            "W-000018"
+          ],
+          [
+            "W-000006",
+            "W-000013"
+          ],
+          [
+            "W-000007",
+            "W-000014"
+          ],
+          [
+            "W-000008",
+            "W-000019"
+          ],
+          [
+            "W-000009",
+            "W-000010"
+          ],
+          [
+            "W-000015",
+            "W-000016"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 15,
+      "routing_fitness_mean": 0.436565926880901,
+      "diversity_g0": 0.13942771595605627,
+      "diversity_g7": 0.13942771595605627
+    },
+    {
+      "seed": 313,
+      "lambda": 0.0,
+      "elapsed_s": 2.7843637466430664,
+      "decisions": 128,
+      "resolved": 109,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000016"
+          ],
+          [
+            "W-000002",
+            "W-000013"
+          ],
+          [
+            "W-000003",
+            "W-000014"
+          ],
+          [
+            "W-000004",
+            "W-000009"
+          ],
+          [
+            "W-000005",
+            "W-000020"
+          ],
+          [
+            "W-000006",
+            "W-000017"
+          ],
+          [
+            "W-000007",
+            "W-000008"
+          ],
+          [
+            "W-000010",
+            "W-000015"
+          ],
+          [
+            "W-000011",
+            "W-000018"
+          ],
+          [
+            "W-000012",
+            "W-000019"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 14,
+      "routing_fitness_mean": 0.43933285169873676,
+      "diversity_g0": 0.13341453997132316,
+      "diversity_g7": 0.13341453997132316
+    },
+    {
+      "seed": 401,
+      "lambda": 0.0,
+      "elapsed_s": 2.3537001609802246,
+      "decisions": 128,
+      "resolved": 109,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000012"
+          ],
+          [
+            "W-000002",
+            "W-000009"
+          ],
+          [
+            "W-000003",
+            "W-000018"
+          ],
+          [
+            "W-000004",
+            "W-000005"
+          ],
+          [
+            "W-000006",
+            "W-000019"
+          ],
+          [
+            "W-000007",
+            "W-000020"
+          ],
+          [
+            "W-000008",
+            "W-000015"
+          ],
+          [
+            "W-000010",
+            "W-000013"
+          ],
+          [
+            "W-000011",
+            "W-000016"
+          ],
+          [
+            "W-000014",
+            "W-000017"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 12,
+      "routing_fitness_mean": 0.43911594403059306,
+      "diversity_g0": 0.13680084359021405,
+      "diversity_g7": 0.13680084359021405
+    },
+    {
+      "seed": 509,
+      "lambda": 0.0,
+      "elapsed_s": 2.637768507003784,
+      "decisions": 128,
+      "resolved": 110,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000010"
+          ],
+          [
+            "W-000002",
+            "W-000019"
+          ],
+          [
+            "W-000003",
+            "W-000016"
+          ],
+          [
+            "W-000004",
+            "W-000007"
+          ],
+          [
+            "W-000005",
+            "W-000020"
+          ],
+          [
+            "W-000006",
+            "W-000017"
+          ],
+          [
+            "W-000008",
+            "W-000013"
+          ],
+          [
+            "W-000009",
+            "W-000018"
+          ],
+          [
+            "W-000011",
+            "W-000012"
+          ],
+          [
+            "W-000014",
+            "W-000015"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 13,
+      "routing_fitness_mean": 0.4378284260643625,
+      "diversity_g0": 0.13790198575991264,
+      "diversity_g7": 0.13790198575991264
+    },
+    {
+      "seed": 607,
+      "lambda": 0.0,
+      "elapsed_s": 2.698438882827759,
+      "decisions": 128,
+      "resolved": 111,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000018"
+          ],
+          [
+            "W-000002",
+            "W-000007"
+          ],
+          [
+            "W-000003",
+            "W-000010"
+          ],
+          [
+            "W-000004",
+            "W-000015"
+          ],
+          [
+            "W-000005",
+            "W-000016"
+          ],
+          [
+            "W-000006",
+            "W-000011"
+          ],
+          [
+            "W-000008",
+            "W-000009"
+          ],
+          [
+            "W-000012",
+            "W-000017"
+          ],
+          [
+            "W-000013",
+            "W-000020"
+          ],
+          [
+            "W-000014",
+            "W-000019"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 12,
+      "routing_fitness_mean": 0.43633295851041537,
+      "diversity_g0": 0.12945070196771644,
+      "diversity_g7": 0.12945070196771644
+    },
+    {
+      "seed": 709,
+      "lambda": 0.0,
+      "elapsed_s": 2.464482069015503,
+      "decisions": 128,
+      "resolved": 109,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000012"
+          ],
+          [
+            "W-000002",
+            "W-000017"
+          ],
+          [
+            "W-000003",
+            "W-000020"
+          ],
+          [
+            "W-000004",
+            "W-000011"
+          ],
+          [
+            "W-000005",
+            "W-000006"
+          ],
+          [
+            "W-000007",
+            "W-000018"
+          ],
+          [
+            "W-000008",
+            "W-000013"
+          ],
+          [
+            "W-000009",
+            "W-000016"
+          ],
+          [
+            "W-000010",
+            "W-000019"
+          ],
+          [
+            "W-000014",
+            "W-000015"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 12,
+      "routing_fitness_mean": 0.4403937026596538,
+      "diversity_g0": 0.13996251989797537,
+      "diversity_g7": 0.13996251989797537
+    },
+    {
+      "seed": 42,
+      "lambda": 5.0,
+      "elapsed_s": 2.837167739868164,
+      "decisions": 128,
+      "resolved": 109,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000008"
+          ],
+          [
+            "W-000002",
+            "W-000013"
+          ],
+          [
+            "W-000003",
+            "W-000016"
+          ],
+          [
+            "W-000004",
+            "W-000015"
+          ],
+          [
+            "W-000005",
+            "W-000012"
+          ],
+          [
+            "W-000006",
+            "W-000011"
+          ],
+          [
+            "W-000007",
+            "W-000020"
+          ],
+          [
+            "W-000009",
+            "W-000010"
+          ],
+          [
+            "W-000014",
+            "W-000019"
+          ],
+          [
+            "W-000017",
+            "W-000018"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 13,
+      "routing_fitness_mean": 0.45781245306752616,
+      "diversity_g0": 0.13936507116201285,
+      "diversity_g7": 0.13936507116201285
+    },
+    {
+      "seed": 77,
+      "lambda": 5.0,
+      "elapsed_s": 2.7614693641662598,
+      "decisions": 128,
+      "resolved": 108,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000020"
+          ],
+          [
+            "W-000002",
+            "W-000015"
+          ],
+          [
+            "W-000003",
+            "W-000006"
+          ],
+          [
+            "W-000004",
+            "W-000009"
+          ],
+          [
+            "W-000005",
+            "W-000012"
+          ],
+          [
+            "W-000007",
+            "W-000016"
+          ],
+          [
+            "W-000008",
+            "W-000019"
+          ],
+          [
+            "W-000010",
+            "W-000011"
+          ],
+          [
+            "W-000013",
+            "W-000018"
+          ],
+          [
+            "W-000014",
+            "W-000017"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 13,
+      "routing_fitness_mean": 0.4594328970461838,
+      "diversity_g0": 0.14101766588901002,
+      "diversity_g7": 0.14101766588901002
+    },
+    {
+      "seed": 101,
+      "lambda": 5.0,
+      "elapsed_s": 2.613171339035034,
+      "decisions": 128,
+      "resolved": 112,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000018"
+          ],
+          [
+            "W-000002",
+            "W-000011"
+          ],
+          [
+            "W-000003",
+            "W-000004"
+          ],
+          [
+            "W-000005",
+            "W-000010"
+          ],
+          [
+            "W-000006",
+            "W-000007"
+          ],
+          [
+            "W-000008",
+            "W-000009"
+          ],
+          [
+            "W-000012",
+            "W-000015"
+          ],
+          [
+            "W-000013",
+            "W-000014"
+          ],
+          [
+            "W-000016",
+            "W-000019"
+          ],
+          [
+            "W-000017",
+            "W-000020"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 17,
+      "routing_fitness_mean": 0.458900268896416,
+      "diversity_g0": 0.1340178161693745,
+      "diversity_g7": 0.1340178161693745
+    },
+    {
+      "seed": 113,
+      "lambda": 5.0,
+      "elapsed_s": 2.5889892578125,
+      "decisions": 128,
+      "resolved": 111,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000014"
+          ],
+          [
+            "W-000002",
+            "W-000015"
+          ],
+          [
+            "W-000003",
+            "W-000016"
+          ],
+          [
+            "W-000004",
+            "W-000019"
+          ],
+          [
+            "W-000005",
+            "W-000012"
+          ],
+          [
+            "W-000006",
+            "W-000017"
+          ],
+          [
+            "W-000007",
+            "W-000010"
+          ],
+          [
+            "W-000008",
+            "W-000011"
+          ],
+          [
+            "W-000009",
+            "W-000018"
+          ],
+          [
+            "W-000013",
+            "W-000020"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 13,
+      "routing_fitness_mean": 0.45531638286127946,
+      "diversity_g0": 0.1314018187562418,
+      "diversity_g7": 0.1314018187562418
+    },
+    {
+      "seed": 211,
+      "lambda": 5.0,
+      "elapsed_s": 2.899752140045166,
+      "decisions": 128,
+      "resolved": 111,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000012"
+          ],
+          [
+            "W-000002",
+            "W-000011"
+          ],
+          [
+            "W-000003",
+            "W-000020"
+          ],
+          [
+            "W-000004",
+            "W-000017"
+          ],
+          [
+            "W-000005",
+            "W-000018"
+          ],
+          [
+            "W-000006",
+            "W-000013"
+          ],
+          [
+            "W-000007",
+            "W-000014"
+          ],
+          [
+            "W-000008",
+            "W-000019"
+          ],
+          [
+            "W-000009",
+            "W-000010"
+          ],
+          [
+            "W-000015",
+            "W-000016"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 15,
+      "routing_fitness_mean": 0.45621914936816366,
+      "diversity_g0": 0.13942771595605627,
+      "diversity_g7": 0.13942771595605627
+    },
+    {
+      "seed": 313,
+      "lambda": 5.0,
+      "elapsed_s": 3.4010043144226074,
+      "decisions": 128,
+      "resolved": 109,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000016"
+          ],
+          [
+            "W-000002",
+            "W-000013"
+          ],
+          [
+            "W-000003",
+            "W-000014"
+          ],
+          [
+            "W-000004",
+            "W-000009"
+          ],
+          [
+            "W-000005",
+            "W-000020"
+          ],
+          [
+            "W-000006",
+            "W-000017"
+          ],
+          [
+            "W-000007",
+            "W-000008"
+          ],
+          [
+            "W-000010",
+            "W-000015"
+          ],
+          [
+            "W-000011",
+            "W-000018"
+          ],
+          [
+            "W-000012",
+            "W-000019"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 14,
+      "routing_fitness_mean": 0.4596855663921161,
+      "diversity_g0": 0.13341453997132316,
+      "diversity_g7": 0.13341453997132316
+    },
+    {
+      "seed": 401,
+      "lambda": 5.0,
+      "elapsed_s": 3.0756607055664062,
+      "decisions": 128,
+      "resolved": 109,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000012"
+          ],
+          [
+            "W-000002",
+            "W-000009"
+          ],
+          [
+            "W-000003",
+            "W-000018"
+          ],
+          [
+            "W-000004",
+            "W-000005"
+          ],
+          [
+            "W-000006",
+            "W-000019"
+          ],
+          [
+            "W-000007",
+            "W-000020"
+          ],
+          [
+            "W-000008",
+            "W-000015"
+          ],
+          [
+            "W-000010",
+            "W-000013"
+          ],
+          [
+            "W-000011",
+            "W-000016"
+          ],
+          [
+            "W-000014",
+            "W-000017"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 12,
+      "routing_fitness_mean": 0.45815385090577515,
+      "diversity_g0": 0.13680084359021405,
+      "diversity_g7": 0.13680084359021405
+    },
+    {
+      "seed": 509,
+      "lambda": 5.0,
+      "elapsed_s": 2.7126989364624023,
+      "decisions": 128,
+      "resolved": 110,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000010"
+          ],
+          [
+            "W-000002",
+            "W-000019"
+          ],
+          [
+            "W-000003",
+            "W-000016"
+          ],
+          [
+            "W-000004",
+            "W-000007"
+          ],
+          [
+            "W-000005",
+            "W-000020"
+          ],
+          [
+            "W-000006",
+            "W-000017"
+          ],
+          [
+            "W-000008",
+            "W-000013"
+          ],
+          [
+            "W-000009",
+            "W-000018"
+          ],
+          [
+            "W-000011",
+            "W-000012"
+          ],
+          [
+            "W-000014",
+            "W-000015"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 13,
+      "routing_fitness_mean": 0.4571911583571661,
+      "diversity_g0": 0.13790198575991264,
+      "diversity_g7": 0.13790198575991264
+    },
+    {
+      "seed": 607,
+      "lambda": 5.0,
+      "elapsed_s": 2.799999237060547,
+      "decisions": 128,
+      "resolved": 111,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000018"
+          ],
+          [
+            "W-000002",
+            "W-000007"
+          ],
+          [
+            "W-000003",
+            "W-000010"
+          ],
+          [
+            "W-000004",
+            "W-000015"
+          ],
+          [
+            "W-000005",
+            "W-000016"
+          ],
+          [
+            "W-000006",
+            "W-000011"
+          ],
+          [
+            "W-000008",
+            "W-000009"
+          ],
+          [
+            "W-000012",
+            "W-000017"
+          ],
+          [
+            "W-000013",
+            "W-000020"
+          ],
+          [
+            "W-000014",
+            "W-000019"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 12,
+      "routing_fitness_mean": 0.4555531261455072,
+      "diversity_g0": 0.12945070196771644,
+      "diversity_g7": 0.12945070196771644
+    },
+    {
+      "seed": 709,
+      "lambda": 5.0,
+      "elapsed_s": 2.6348164081573486,
+      "decisions": 128,
+      "resolved": 109,
+      "births": 10,
+      "parent_pairs_by_generation": {
+        "2": [
+          [
+            "W-000001",
+            "W-000012"
+          ],
+          [
+            "W-000002",
+            "W-000017"
+          ],
+          [
+            "W-000003",
+            "W-000020"
+          ],
+          [
+            "W-000004",
+            "W-000011"
+          ],
+          [
+            "W-000005",
+            "W-000006"
+          ],
+          [
+            "W-000007",
+            "W-000018"
+          ],
+          [
+            "W-000008",
+            "W-000013"
+          ],
+          [
+            "W-000009",
+            "W-000016"
+          ],
+          [
+            "W-000010",
+            "W-000019"
+          ],
+          [
+            "W-000014",
+            "W-000015"
+          ]
+        ]
+      },
+      "final_population": 30,
+      "active_end": 12,
+      "routing_fitness_mean": 0.460446823163387,
+      "diversity_g0": 0.13996251989797537,
+      "diversity_g7": 0.13996251989797537
+    }
+  ],
+  "comparison": [
+    {
+      "seed": 42,
+      "parent_pairs_identical": true,
+      "births_lambda0": 10,
+      "births_lambda5": 10,
+      "routing_fitness_lambda0": 0.438681980177613,
+      "routing_fitness_lambda5": 0.45781245306752616,
+      "diversity_g0_lambda0": 0.13936507116201285,
+      "diversity_g7_lambda0": 0.13936507116201285,
+      "diversity_g0_lambda5": 0.13936507116201285,
+      "diversity_g7_lambda5": 0.13936507116201285,
+      "final_population_lambda0": 30,
+      "final_population_lambda5": 30
+    },
+    {
+      "seed": 77,
+      "parent_pairs_identical": true,
+      "births_lambda0": 10,
+      "births_lambda5": 10,
+      "routing_fitness_lambda0": 0.4388671746693822,
+      "routing_fitness_lambda5": 0.4594328970461838,
+      "diversity_g0_lambda0": 0.14101766588901002,
+      "diversity_g7_lambda0": 0.14101766588901002,
+      "diversity_g0_lambda5": 0.14101766588901002,
+      "diversity_g7_lambda5": 0.14101766588901002,
+      "final_population_lambda0": 30,
+      "final_population_lambda5": 30
+    },
+    {
+      "seed": 101,
+      "parent_pairs_identical": false,
+      "births_lambda0": 10,
+      "births_lambda5": 10,
+      "routing_fitness_lambda0": 0.43828663635881576,
+      "routing_fitness_lambda5": 0.458900268896416,
+      "diversity_g0_lambda0": 0.1340178161693745,
+      "diversity_g7_lambda0": 0.1340178161693745,
+      "diversity_g0_lambda5": 0.1340178161693745,
+      "diversity_g7_lambda5": 0.1340178161693745,
+      "final_population_lambda0": 30,
+      "final_population_lambda5": 30
+    },
+    {
+      "seed": 113,
+      "parent_pairs_identical": false,
+      "births_lambda0": 10,
+      "births_lambda5": 10,
+      "routing_fitness_lambda0": 0.43550485150852963,
+      "routing_fitness_lambda5": 0.45531638286127946,
+      "diversity_g0_lambda0": 0.1314018187562418,
+      "diversity_g7_lambda0": 0.1314018187562418,
+      "diversity_g0_lambda5": 0.1314018187562418,
+      "diversity_g7_lambda5": 0.1314018187562418,
+      "final_population_lambda0": 30,
+      "final_population_lambda5": 30
+    },
+    {
+      "seed": 211,
+      "parent_pairs_identical": false,
+      "births_lambda0": 10,
+      "births_lambda5": 10,
+      "routing_fitness_lambda0": 0.436565926880901,
+      "routing_fitness_lambda5": 0.45621914936816366,
+      "diversity_g0_lambda0": 0.13942771595605627,
+      "diversity_g7_lambda0": 0.13942771595605627,
+      "diversity_g0_lambda5": 0.13942771595605627,
+      "diversity_g7_lambda5": 0.13942771595605627,
+      "final_population_lambda0": 30,
+      "final_population_lambda5": 30
+    },
+    {
+      "seed": 313,
+      "parent_pairs_identical": false,
+      "births_lambda0": 10,
+      "births_lambda5": 10,
+      "routing_fitness_lambda0": 0.43933285169873676,
+      "routing_fitness_lambda5": 0.4596855663921161,
+      "diversity_g0_lambda0": 0.13341453997132316,
+      "diversity_g7_lambda0": 0.13341453997132316,
+      "diversity_g0_lambda5": 0.13341453997132316,
+      "diversity_g7_lambda5": 0.13341453997132316,
+      "final_population_lambda0": 30,
+      "final_population_lambda5": 30
+    },
+    {
+      "seed": 401,
+      "parent_pairs_identical": false,
+      "births_lambda0": 10,
+      "births_lambda5": 10,
+      "routing_fitness_lambda0": 0.43911594403059306,
+      "routing_fitness_lambda5": 0.45815385090577515,
+      "diversity_g0_lambda0": 0.13680084359021405,
+      "diversity_g7_lambda0": 0.13680084359021405,
+      "diversity_g0_lambda5": 0.13680084359021405,
+      "diversity_g7_lambda5": 0.13680084359021405,
+      "final_population_lambda0": 30,
+      "final_population_lambda5": 30
+    },
+    {
+      "seed": 509,
+      "parent_pairs_identical": false,
+      "births_lambda0": 10,
+      "births_lambda5": 10,
+      "routing_fitness_lambda0": 0.4378284260643625,
+      "routing_fitness_lambda5": 0.4571911583571661,
+      "diversity_g0_lambda0": 0.13790198575991264,
+      "diversity_g7_lambda0": 0.13790198575991264,
+      "diversity_g0_lambda5": 0.13790198575991264,
+      "diversity_g7_lambda5": 0.13790198575991264,
+      "final_population_lambda0": 30,
+      "final_population_lambda5": 30
+    },
+    {
+      "seed": 607,
+      "parent_pairs_identical": false,
+      "births_lambda0": 10,
+      "births_lambda5": 10,
+      "routing_fitness_lambda0": 0.43633295851041537,
+      "routing_fitness_lambda5": 0.4555531261455072,
+      "diversity_g0_lambda0": 0.12945070196771644,
+      "diversity_g7_lambda0": 0.12945070196771644,
+      "diversity_g0_lambda5": 0.12945070196771644,
+      "diversity_g7_lambda5": 0.12945070196771644,
+      "final_population_lambda0": 30,
+      "final_population_lambda5": 30
+    },
+    {
+      "seed": 709,
+      "parent_pairs_identical": false,
+      "births_lambda0": 10,
+      "births_lambda5": 10,
+      "routing_fitness_lambda0": 0.4403937026596538,
+      "routing_fitness_lambda5": 0.460446823163387,
+      "diversity_g0_lambda0": 0.13996251989797537,
+      "diversity_g7_lambda0": 0.13996251989797537,
+      "diversity_g0_lambda5": 0.13996251989797537,
+      "diversity_g7_lambda5": 0.13996251989797537,
+      "final_population_lambda0": 30,
+      "final_population_lambda5": 30
+    }
+  ],
+  "identical_seed_count": 2,
+  "different_seed_count": 8,
+  "acceptance_met": true
+}

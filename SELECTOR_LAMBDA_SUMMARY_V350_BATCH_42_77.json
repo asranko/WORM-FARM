@@ -1,0 +1,26 @@
+{
+  "seeds": [
+    42,
+    77
+  ],
+  "identical_seed_count": 2,
+  "changed_seed_count": 0,
+  "seed_summaries": [
+    {
+      "seed": 42,
+      "identical_all_generations": true,
+      "changed_pair_slots": 0,
+      "compared_pair_slots": 10,
+      "lambda0_births": 10,
+      "lambda5_births": 10
+    },
+    {
+      "seed": 77,
+      "identical_all_generations": true,
+      "changed_pair_slots": 0,
+      "compared_pair_slots": 10,
+      "lambda0_births": 10,
+      "lambda5_births": 10
+    }
+  ]
+}
